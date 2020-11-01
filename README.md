@@ -32,7 +32,7 @@ Move to the appropriate directory
 ```bash
   cd <YOUR_PROJECT_NAME>
 ```
-Nativate into the directory and install NPM packages using, 
+Navigate into the directory and install NPM packages using, 
 
 ```bash
   npm install
