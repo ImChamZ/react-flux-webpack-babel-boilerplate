@@ -6,7 +6,6 @@ class App extends Component {
     return (
       <>
         <h1>Hello World from React + Webpack + Babel + Flux Boilerplate </h1>
-        Master Branch
         <SampleViewContainer></SampleViewContainer>
       </>
     );
