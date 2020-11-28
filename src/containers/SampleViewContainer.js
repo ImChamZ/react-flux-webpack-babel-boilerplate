@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { Container } from "flux/utils";
 import SampleViewActions from "../data/sample/SampleViewActions";
 import SampleViewStore from "../data/sample/SampleViewStore";
-import SampleView from "../views/SampleView";
+import SampleView from "Views/SampleView";
 
 class SampleViewContainer extends Component {
   static getStores() {

@@ -1,3 +1,13 @@
 body {
-  background-color: springgreen;
+  background-color: #d4d0d0;
+}
+
+h1 {
+  color: red;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
